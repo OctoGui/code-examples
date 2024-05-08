@@ -12,6 +12,6 @@
   "license": "MIT",
   "devDependencies": {
     "@pact-foundation/pact": "^12.5.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.4.0"
   }
 }
