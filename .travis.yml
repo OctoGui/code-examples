@@ -15,4 +15,4 @@ script:
 language: java
 
 jdk:
-  - oraclejdk13
+  - openjdk17
