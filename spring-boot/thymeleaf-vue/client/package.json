@@ -12,16 +12,16 @@
     "test": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
-    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-actions": "^8.1.6",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/vue": "^6.5.15",
+    "@storybook/vue": "^7.6.17",
     "@vue/cli-plugin-babel": "~5.0.8",
     "@vue/cli-plugin-eslint": "~5.0.8",
     "@vue/cli-plugin-unit-jest": "^5.0.8",
