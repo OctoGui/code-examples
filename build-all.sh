@@ -87,6 +87,11 @@ if [[ "$MODULE" == "module7" ]]
 then
   # ADD NEW MODULES HERE
   # (add new modules above the rest so you get quicker feedback if it fails)
+  build maven_module "aws/spring-cloud-aws-s3"
+  build maven_module "aws/spring-cloud-sns-sqs-pubsub"
+  build maven_module "apache-http-client"
+  build maven_module "archunit"
+  build maven_module "aws/structured-logging-cw"
   build_gradle_module "kotlin/coroutines"
   build_maven_module "core-java/streams/data-streams"
   build maven_module "aws/kinesis"
@@ -102,6 +107,7 @@ fi
 
 if [[ "$MODULE" == "module6" ]]
 then
+  build maven_module "core-java/records"
   build_maven_module "spring-boot/spring-boot-app-info"
   build_maven_module "spring-boot/spring-boot-null-safe-annotations"
   build maven_module "aws/cdkv2"
@@ -201,6 +207,7 @@ then
   build_maven_module "resilience4j/timelimiter"
   build_maven_module "resilience4j/bulkhead"
   build_maven_module "resilience4j/circuitbreaker"
+  build_maven_module "openfeign/openfeign-client-intro"
   build_gradle_module "spring-data/spring-data-jdbc-converter"
   build_gradle_module "reactive"
   build_gradle_module "junit/assumptions"
