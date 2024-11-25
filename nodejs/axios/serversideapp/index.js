@@ -149,6 +149,12 @@ app.get('/products/:productName/inventory', (request, response) => {
 
   const productName = request.params.productName
 
+  const allowedProductNames = ['Television', 'Washing Machine', 'Laptop']
+
+  if (!allowedProductNames.includes(productName)) {
+    return response.status(400).send({ error: 'Invalid product name' })
+  }
+
   const productApiResponse = axios.get(`http://localhost:3002/products/${productName}`)
   const inventoryApiResponse = axios.get(`http://localhost:3002/products/${productName}/itemsInStock`)
 
