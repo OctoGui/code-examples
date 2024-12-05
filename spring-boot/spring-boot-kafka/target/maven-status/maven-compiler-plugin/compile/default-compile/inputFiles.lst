@@ -1,0 +1,10 @@
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaTopicConfig.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/InitSend.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/SpringKafkaExampleApplication.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaSenderWithMessageConverter.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaClassListener.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaListenersExample.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/User.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaConsumerConfig.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaSenderExample.java
+/workspaces/code-examples/spring-boot/spring-boot-kafka/src/main/java/io/reflectoring/kafka/KafkaProducerConfig.java

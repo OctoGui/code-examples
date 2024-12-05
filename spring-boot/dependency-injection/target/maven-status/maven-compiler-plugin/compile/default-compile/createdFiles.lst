@@ -1,0 +1,10 @@
+com/example/constructorinjection/Sandwich.class
+com/example/constructorinjection/Cake.class
+com/example/dependency/Pizza.class
+com/example/setterinjection/Cookie.class
+com/example/ExampleApplication.class
+com/example/dependency/Flavor.class
+com/example/fieldinjection/IceCream.class
+com/example/dependency/Topping.class
+com/example/setterinjection/Cake.class
+com/example/dependency/Bread.class
