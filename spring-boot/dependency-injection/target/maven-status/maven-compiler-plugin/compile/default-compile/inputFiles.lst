@@ -1,0 +1,10 @@
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/fieldinjection/IceCream.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/constructorinjection/Sandwich.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/setterinjection/Cookie.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/ExampleApplication.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/dependency/Bread.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/setterinjection/Cake.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/dependency/Pizza.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/dependency/Flavor.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/constructorinjection/Cake.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/main/java/com/example/dependency/Topping.java

@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "test": "chmod +x build-all.sh && ./build-all.sh",
+    "build": "chmod 755 build-all.sh && ./build-all.sh module1 && ./build-all.sh module2 && ./build-all.sh module3 && ./build-all.sh module4 && ./build-all.sh module5 && ./build-all.sh module6 && ./build-all.sh module7",
+    "launch": "./build-all.sh"
+  }
+}

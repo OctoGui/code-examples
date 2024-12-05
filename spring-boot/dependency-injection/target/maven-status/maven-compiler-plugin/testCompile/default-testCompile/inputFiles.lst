@@ -1,0 +1,6 @@
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/ExampleApplicationSI.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/ExampleApplicationCI.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/ExampleApplicationFI.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/fieldinjection/TestCookieClassFieldInjection.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/setterinjection/TestCakeClassSetterInjection.java
+/workspaces/code-examples/spring-boot/dependency-injection/src/test/java/com/example/constructorinjection/TestCakeClassConstructorInjection.java
